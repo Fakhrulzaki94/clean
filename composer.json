@@ -1,0 +1,20 @@
+{
+    "name": "fakhrulrazi/clean",
+    "description": "clean and clear",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fakhrulrazi",
+            "email": "fakhrulzaki94@yahoo.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Fakhrulrazi\\Clean\\": "src/"
+        }
+    },
+
+    "minimum-stability": "dev",
+    "require": {}
+}
